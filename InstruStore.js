@@ -8,37 +8,37 @@ const instruments = [
         name: 'Guitar',
         brand: 'Fender',
         price: '$30',
-        photo: 'images/guitar.png'
+        photo: 'guitar.png'
     },
     {
         name: 'Piano',
         brand: 'Fender',
         price: '$150',
-        photo: 'images/piano.png'
+        photo: 'piano.png'
     },
     {
         name: 'Drums',
         brand: 'Yamaha',
         price: '$90',
-        photo: 'images/drums.png'
+        photo: 'drums.png'
     },
     {
         name: 'Flute',
         brand: 'Maton',
         price: '$15',
-        photo: 'images/flute.png'
+        photo: 'flute.png'
     },
     {
         name: 'Voilin',
         brand: 'Yamaha',
         price: '$120',
-        photo: 'images/violin.png'
+        photo: 'violin.png'
     },
     {
         name: 'Trumpet',
         brand: 'Maton',
         price: '$200',
-        photo: 'images/trumpet.png'
+        photo: 'trumpet.png'
     }
 ];
 
